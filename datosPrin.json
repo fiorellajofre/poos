@@ -1,13 +1,13 @@
 [
 {
-"run": "14141414-9",
-"nombre": "Alumno",
-"apellido": "POO",
-"direccion": "Inacap",
-"fono": 14141414,
-"correo":"correo@correo.cl",
-"montoCredito": 505050,
-"deuda":606060,
+"run": "21520027-2",
+"nombre": "Fiorella",
+"apellido": "Jofré",
+"direccion": "Cancha Rayada 3850",
+"fono": 56913523,
+"correo":"fiorella.jofre@inacapmail.cl",
+"montoCredito": 50000,
+"deuda":16780,
 "tipo": 3
 }
 ]
